@@ -1,0 +1,4 @@
+*.log
+node_modules/
+public/777.json
+public/data.json
